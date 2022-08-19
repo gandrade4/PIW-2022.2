@@ -1,0 +1,19 @@
+{
+  "name": "piw-2022.2",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gandrade4/PIW-2022.2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gandrade4/PIW-2022.2/issues"
+  },
+  "homepage": "https://github.com/gandrade4/PIW-2022.2#readme"
+}
